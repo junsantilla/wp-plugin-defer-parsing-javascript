@@ -1,1 +1,1 @@
-# wp-plugin-defer-parsing-javascript
+# Defer Parsing Javascript
